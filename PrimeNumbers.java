@@ -23,7 +23,7 @@ public class PrimeNumbers {
             {System.out.println("---It is a prime number---");
             break;}
         }
-    }System.out.print("If you want to find for other numbers too enter 1 or enter any other key to exit:");
+    }System.out.print("If you want to find for other numbers too enter 1 or enter 2 to exit:");
      temp=in.nextInt();
     }
     System.out.println("Thank you for using.\n--Have a grat day--");
