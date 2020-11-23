@@ -7,7 +7,7 @@ public class PrimeNumbers {
         Scanner in=new Scanner(System.in);
         PrimeNumbers obj=new PrimeNumbers();
        while(temp==1){
-        System.out.println("Enter a number to find whether it is prime or not");
+        System.out.println("Enter a number to find whether it is prime or not");//Added
         obj.num=in.nextInt();
         if (obj.num == 1||obj.num==2||obj.num==3) {
             System.out.println("---It is a prime number---");
