@@ -12,6 +12,10 @@ button {
   font-size: large;
   text-align: center;
 }
+button:hover {
+  color: #4ea8de;
+  background-color: #edf6f9;
+}
 label {
   color: black;
   background-color: antiquewhite;
@@ -23,7 +27,22 @@ input {
 }
 body {
   background-image: url("https://wallpapercave.com/wp/wp2042547.jpg");
+  background-size: cover;
 }
 p {
   line-height: 2;
+  width: 550px;
+  border-style: groove;
+  border-color: #4ea8de;
+  border-width: 15px;
+  box-sizing: border-box;
+  border-radius: 25% 10%;
+}
+form {
+  width: 600px;
+  border-style: groove;
+  border-color: darkgoldenrod;
+  border-width: 10px;
+  box-sizing: border-box;
+  border-radius: 30px;
 }
