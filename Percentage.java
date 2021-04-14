@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Percentage {
     static int max = 0;
 
-    public static void main(String... args) {
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("|||||||||||CBSE Percentile Calculation|||||||||||||");
         System.out.println("Assign total marks for which the subject was taken:");
