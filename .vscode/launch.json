@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Percentage",
+            "request": "launch",
+            "mainClass": "Percentage",
+            "projectName": "Exercises_a4277746"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PrimeNumbers",
             "request": "launch",
             "mainClass": "PrimeNumbers",
